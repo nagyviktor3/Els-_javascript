@@ -1,4 +1,3 @@
-let randomszam=10;
-for (let i=0;i<randomszam;i+1){
-    console.log(randomszam)
-}
+let myNumbers = [10, 20, 30, 50, 12];
+myNumbers.forEach((op) => {console.log(op);
+});
